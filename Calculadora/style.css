@@ -1,0 +1,36 @@
+* {
+    background: rgb(170, 167, 167);
+    text-align: center;
+}
+
+.calculadora {
+    border: 1px solid black;
+}
+
+input {
+    background: rgb(150, 150, 150);
+    padding: 20px;
+   
+    outline: none;
+    
+}
+.tela {
+    width: 235px;
+    margin: 8px 0px ;
+}
+
+form{
+    background-color: rgb(41, 41, 41);
+    padding-bottom: 2px ;
+    margin: 10% 20%;
+    border: 1px solid black;
+}
+
+.num {
+    width: 65px;
+    height: 68px;
+}
+
+.num:hover {
+    background: rgb(209, 53, 53);
+}
